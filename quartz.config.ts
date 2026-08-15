@@ -8,16 +8,21 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "A Pattern Language for Marketing",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "mtrifiro.github.io/marketing-pattern-language",
+    ignorePatterns: [
+      "private",
+      "templates",
+      ".obsidian",
+      "**/.DS_Store",
+      "**/*.base",
+      "_*/**",
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -71,7 +76,9 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      // Latex intentionally disabled: this vault contains no math, but 58 notes
+      // contain dollar amounts ("$100,000 ... $5M") that KaTeX parses as inline
+      // math and mangles. Re-enable only if real LaTeX is ever added.
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

@@ -1,0 +1,36 @@
+@use "../../styles/variables.scss" as *;
+
+.draft-badge {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.5rem 0 1rem 0;
+  padding: 0.4rem 0.7rem;
+  border-left: 3px solid var(--secondary);
+  border-radius: 0 4px 4px 0;
+  background-color: var(--highlight);
+
+  & > .draft-badge-pill {
+    flex: none;
+    font-family: var(--headerFont);
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    // --secondary, not --tertiary: --light on --tertiary is only 2.53:1 in
+    // light mode. --secondary clears AA against --light in both themes.
+    color: var(--light);
+    background-color: var(--secondary);
+    padding: 0.1rem 0.45rem;
+    border-radius: 3px;
+  }
+
+  & > .draft-badge-note {
+    font-size: 0.8rem;
+    // --darkgray, not --gray: --gray is #646464, which lands at 3.05:1 against
+    // the dark-mode background and fails WCAG AA for small text.
+    color: var(--darkgray);
+    line-height: 1.4;
+  }
+}

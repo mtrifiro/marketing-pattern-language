@@ -8,8 +8,11 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      // Full URLs, not root-relative: the site is served from a GitHub Pages
+      // project subpath, where "/0-Frontmatter/..." would 404.
+      Introduction: "https://mtrifiro.github.io/marketing-pattern-language/0-Frontmatter/Introduction",
+      "The Pattern Summary":
+        "https://mtrifiro.github.io/marketing-pattern-language/0-Frontmatter/The-Pattern-Summary",
     },
   }),
 }
@@ -23,6 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
+    Component.DraftBadge(),
     Component.TagList(),
   ],
   left: [

@@ -1,6 +1,6 @@
 ---
-pattern: "Niche-to-Platform Gradient"
-aliases: ["Niche-to-Platform Gradient"]
+pattern: "Wedge-to-Platform Gradient"
+aliases: ["Wedge-to-Platform Gradient", "Niche-to-Platform Gradient"]
 altitude: market-structure
 status: draft
 domains: [core]
@@ -8,7 +8,7 @@ larger: ["[[MS-001 Designed Market, Not Found Market]]"]
 smaller: []
 source: "Vision doc (where a market sits between wedge and platform)"
 created: 2026-08-01
-modified: 2026-08-08
+modified: 2026-08-16
 tags: [pattern]
 ---
 
@@ -69,4 +69,3 @@ The tension runs both directions and demands constant judgment. The pull to clai
 **Shimano from one part to the whole drivetrain (1921–1984).** Shozaburo Shimano opened Shimano Iron Works in Sakai, Japan, in February 1921 making one thing, the bicycle freewheel, which the company's own founder history says he picked because it demanded the highest level of technology of any bicycle component. A wedge chosen for that reason is hard to take away from you. Shimano added neighbouring parts over the following decades, and its product history dates the Dura-Ace line to 1973, supplied first to a professional road racing team as a group of components meant to be raced together. Sheldon Brown's Dura-Ace reference puts indexed shifting on the Dura-Ace 7400 generation in 1984, and the gradient's far end shows itself there: for a lever click to land on a gear, the shifter, cable, derailleur and cogs have to be engineered as one system. Shimano was by then selling the drivetrain, and compatibility inside its own catalogue became a defense that no single excellent part had ever given it. Sixty-three years run from the freewheel to the indexed group, and Shimano took the adjacent parts in order.
 
 **The everything-tool that won nothing; the trap to avoid.** I watched a company insist from day one that it was a platform, leading every pitch with breadth and a diagram of a dozen use cases. Buyers with one urgent problem could not find themselves in the diagram, adopted nothing, and the company never won a wedge to expand from. We cut the story to a single sharp use case and won that segment completely. The breadth the company had been claiming finally started to become real, one earned use case at a time. The difference was everything.
-

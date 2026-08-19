@@ -8,7 +8,7 @@ larger: ["[[MS-031 Market Segmentation]]", "[[MS-001 Designed Market, Not Found 
 smaller: ["[[MS-033 Spear Fishing]]"]
 source: "PDF pp. 41–60 (choosing a beachhead; 'to get big, think small')"
 created: 2026-08-01
-modified: 2026-08-08
+modified: 2026-08-16
 tags: [pattern]
 ---
 
@@ -24,7 +24,7 @@ Breadth feels like progress and forecloses nothing, which is why the whole addre
 
 This is the same wall that [[MS-017 Adoption Curve Ownership]] describes, seen from the angle of focus: the way across is a single beachhead segment won completely, and a broad, thin push stalls at the edge. Herb Kelleher put it plainly at Southwest: think small and act small, and we'll get bigger. A company without a beachhead mistakes breadth for scale, celebrating logos scattered across segments while the business fails to compound, and then wonders why growth flattens even as the top-of-funnel numbers look healthy.
 
-Serving everyone guarantees dominating no one. (The division of the market a beachhead is chosen from is [[MS-031 Market Segmentation]]; the referenceable groups a good beachhead is built on are [[MS-015 Buyers Come in Clusters]]; the position on the wedge-to-platform axis a beachhead sits at is the [[MS-006 Niche-to-Platform Gradient]].)
+Serving everyone guarantees dominating no one. (The division of the market a beachhead is chosen from is [[MS-031 Market Segmentation]]; the referenceable groups a good beachhead is built on are [[MS-015 Buyers Come in Clusters]]; the position on the wedge-to-platform axis a beachhead sits at is the [[MS-006 Wedge-to-Platform Gradient]].)
 
 ## Complications
 
@@ -45,13 +45,13 @@ Start from a real [[MS-031 Market Segmentation]]. Bill Aulet set out the same di
 3. **Meaningful.** It's large enough that winning it is worth the focus.
 4. **A bridgehead.** It sits next to the segments you intend to take next, so the reference density you build spills into the neighbor.
 
-Then complete the whole product for that one segment, win a clear majority of it, and use the proof to cross to the adjacent segment, the bowling-alley progression that carries a company from a niche outward along the [[MS-006 Niche-to-Platform Gradient]]. Refuse the off-beachhead deals that would scatter the focus; this is why the beachhead and [[MS-034 No Is the Most Profitable Word]] are close companions. Inside the beachhead, in markets ruled by a few large accounts, win completely by pursuing named accounts one at a time ([[MS-033 Spear Fishing]]) rather than running a volume motion.
+Then complete the whole product for that one segment, win a clear majority of it, and use the proof to cross to the adjacent segment, the bowling-alley progression that carries a company from a niche outward along the [[MS-006 Wedge-to-Platform Gradient]]. Refuse the off-beachhead deals that would scatter the focus; this is why the beachhead and [[MS-034 No Is the Most Profitable Word]] are close companions. Inside the beachhead, in markets ruled by a few large accounts, win completely by pursuing named accounts one at a time ([[MS-033 Spear Fishing]]) rather than running a volume motion.
 
 Judge the segment by what it opens as much as by how easily it's taken. A candidate that fails any of the four tests is the wrong beachhead, however attractive it looks. The most common error is choosing a beachhead that's easy to win but leads nowhere, a comfortable niche with no adjacent territory, which strands you in a room you can never expand out of. The point of the beachhead is never the beachhead itself; it's the sequence of conquests it makes possible, so weigh what the first win unlocks before you commit to it.
 
 ## Implications
 
-A won beachhead gives you your first real position: a segment you dominate, a reference base that sells the next deals, a whole product that actually works, and a bridgehead into the adjacent market. Open [[MS-033 Spear Fishing]] as the account-level tactic inside the beachhead, feed the Part II demand engine a focused target, and run the segment-by-segment expansion that [[MS-017 Adoption Curve Ownership]] and the [[MS-006 Niche-to-Platform Gradient]] describe. Treat the beachhead as the concrete expression of the focus that [[MS-010 ICP Definition]] and [[MS-030 Sizing Is Storytelling]] argue for in the abstract.
+A won beachhead gives you your first real position: a segment you dominate, a reference base that sells the next deals, a whole product that actually works, and a bridgehead into the adjacent market. Open [[MS-033 Spear Fishing]] as the account-level tactic inside the beachhead, feed the Part II demand engine a focused target, and run the segment-by-segment expansion that [[MS-017 Adoption Curve Ownership]] and the [[MS-006 Wedge-to-Platform Gradient]] describe. Treat the beachhead as the concrete expression of the focus that [[MS-010 ICP Definition]] and [[MS-030 Sizing Is Storytelling]] argue for in the abstract.
 
 Then guard against the beachhead capturing the company as easily as it launched it. Win a segment too specifically and you build a product for one room, hard to generalize into the neighbor; let the beachhead's needs pull the roadmap and you can trap the company in its first niche. The choice is unforgiving: too small and there's nowhere to expand from, too large and you never win it completely, and you make the call early with imperfect information. Own the beachhead, and don't let it own you.
 
@@ -59,7 +59,7 @@ Then guard against the beachhead capturing the company as easily as it launched 
 
 - **Above:** [[MS-031 Market Segmentation]], [[MS-001 Designed Market, Not Found Market]]
 - **Below:** [[MS-033 Spear Fishing]]
-- **Peers:** [[MS-015 Buyers Come in Clusters]] (the referenceable group a beachhead is built on), [[MS-017 Adoption Curve Ownership]] (crossing the chasm on a single beachhead), [[MS-006 Niche-to-Platform Gradient]] (expanding from the beachhead outward), [[MS-034 No Is the Most Profitable Word]] (refusing the deals that scatter the focus)
+- **Peers:** [[MS-015 Buyers Come in Clusters]] (the referenceable group a beachhead is built on), [[MS-017 Adoption Curve Ownership]] (crossing the chasm on a single beachhead), [[MS-006 Wedge-to-Platform Gradient]] (expanding from the beachhead outward), [[MS-034 No Is the Most Profitable Word]] (refusing the deals that scatter the focus)
 
 ## Examples
 

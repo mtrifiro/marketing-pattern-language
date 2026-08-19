@@ -8,11 +8,11 @@ larger: ["[[MS-001 Designed Market, Not Found Market]]"]
 smaller: []
 source: "Net-new (Porter; Christensen non-consumption; Dunford competitive alternatives)"
 created: 2026-08-01
-modified: 2026-08-08
+modified: 2026-08-19
 tags: [pattern]
 ---
 
-> *Your real competition is rarely the vendor you watch; it's the spreadsheet, the in-house build, and the decision to do nothing.*
+> *Most of the deals you lose go to a spreadsheet, an in-house build, or no purchase at all.*
 
 > [!tldr] About this pattern
 > The buyer's competitive field includes named rivals, an in-house build, a manual workaround, and doing nothing. Each alternative changes the price, objections, and position the deal must survive, and the deciding rival often sits outside the vendor shortlist. It sits below [[MS-001 Designed Market, Not Found Market]].
@@ -28,7 +28,7 @@ A narrow map has a price. You position against the wrong alternative, price agai
 
 ## Complications
 
-- **The visible rival is rarely the real one.** You track the competitors that look like you, while deals get decided against the status quo and substitutes you never mapped.
+- **The rival you track is only part of the field.** You track the competitors that look like you, while deals get decided against the status quo and substitutes you never mapped.
 - **Non-consumption is the largest segment.** The people who buy nothing usually outnumber the buyers of every vendor combined, and a rival-focused view can't see them.
 - **Substitutes and in-house builds don't advertise.** The spreadsheet, the workaround, and the internal team compete silently and never show up in a vendor analysis.
 - **The map changes the whole strategy.** Positioning against a vendor and positioning against "doing nothing" need different messages, pricing, and sales.

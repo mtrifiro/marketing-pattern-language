@@ -3,7 +3,7 @@ type: chapter-introduction
 altitude: market-structure
 status: active
 created: 2026-08-01
-modified: 2026-08-08
+modified: 2026-08-16
 tags: [chapter, market-structure]
 ---
 
@@ -22,7 +22,7 @@ This chapter settles whether the company will accept an existing buying frame or
 | [[MS-003 Window of Inevitability]] | Test whether an enabling shift has made the new approach credible and whether the opening remains available. |
 | [[MS-004 Narrative Precedes Demand]] | Give buyers an interpretation of the shift before scattered facts harden into a cheaper reading. |
 | [[MS-005 Category Before Product]] | Name the mental shelf that determines the comparison set and buying path. |
-| [[MS-006 Niche-to-Platform Gradient]] | Locate the offer between a narrow wedge and a broad platform, then identify the adjacent move it can support. |
+| [[MS-006 Wedge-to-Platform Gradient]] | Locate the offer between a narrow wedge and a broad platform, then identify the adjacent move it can support. |
 | [[MS-007 Maturity Kills Premium]] | Read how convergence changes the available premium and the urgency of building durable holds. |
 
 The sequence is iterative. A weak timing test can force a narrower category. Buyer response can change the market-type reading. Maturity can move a platform toward a more focused position. The patterns give each revision a named decision.

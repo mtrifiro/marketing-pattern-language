@@ -8,7 +8,7 @@ larger: ["[[MS-001 Designed Market, Not Found Market]]", "[[MS-002 Market Type S
 smaller: ["[[GTM-002 PLG-SLG Hybrid]]", "[[GTM-003 Founder-Led Sales]]", "[[GTM-004 Repeatable Sales Motion]]", "[[GTM-009 Awareness Cascade]]", "[[GTM-008 Demand Creation vs. Demand Capture]]", "[[GTM-026 Growth Loop]]", "[[GTM-024 Partner Force Multipliers]]"]
 source: "PDF pp. 121–140 (Phase 4 motion selection, PLG/SLG/hybrid economics); pp. 1–40 raw (PLG-to-sales handoff); absorbs MS-006 (the Part I to Part II bridge) and GTM-002 (the motion continuum)"
 created: 2026-08-01
-modified: 2026-08-08
+modified: 2026-08-16
 tags: [pattern]
 ---
 
@@ -64,7 +64,7 @@ Test the result: ask whether a new hire in any function can name the primary mot
 
 With one motion chosen, the rest of Part II has a spine, and all of it, the sales motions, the demand engine, the pricing systems, the growth loops, is the operational working-out of the structure Part I designed. Develop the sales-assisted middle through [[GTM-002 PLG-SLG Hybrid]], and handle the early and scaled forms of a sales lead with [[GTM-003 Founder-Led Sales]] and [[GTM-004 Repeatable Sales Motion]]. Build first contact, the [[GTM-009 Awareness Cascade]] and [[GTM-008 Demand Creation vs. Demand Capture]] of the demand engine, the pricing and packaging systems, the channel routes, and the compounding [[GTM-026 Growth Loop]] to reinforce the single motion, which is what lets the operations layer of Part III instrument one path instead of two. Read most go-to-market failures as structure-motion mismatches before you read them as execution problems.
 
-Hold the discipline against two pressures. Markets change while comp plans and org charts resist changing with them, so a motion correct at launch can fall out of alignment as you cross the [[MS-017 Adoption Curve Ownership]] or move along the [[MS-006 Niche-to-Platform Gradient]]; re-read the structure and re-sequence, adding a layer or shifting the lead, rather than freezing the first choice. And resist the standing pull of ambition: a growing company wants every motion at once, so make the second motion earn its place under the first rather than beside it.
+Hold the discipline against two pressures. Markets change while comp plans and org charts resist changing with them, so a motion correct at launch can fall out of alignment as you cross the [[MS-017 Adoption Curve Ownership]] or move along the [[MS-006 Wedge-to-Platform Gradient]]; re-read the structure and re-sequence, adding a layer or shifting the lead, rather than freezing the first choice. And resist the standing pull of ambition: a growing company wants every motion at once, so make the second motion earn its place under the first rather than beside it.
 
 ## Related Patterns
 

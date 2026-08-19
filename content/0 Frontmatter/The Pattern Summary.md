@@ -2,7 +2,7 @@
 type: front-matter
 status: active
 created: 2026-08-03
-modified: 2026-08-08
+modified: 2026-08-19
 tags: [book, front-matter, pattern-language]
 ---
 
@@ -35,7 +35,7 @@ tags: [book, front-matter, pattern-language]
 
 **MS-005** &nbsp; [[MS-005 Category Before Product]]<br>Build the shelf before you sell the book.
 
-**MS-006** &nbsp; [[MS-006 Niche-to-Platform Gradient]]<br>Every product sits somewhere on the line from narrow wedge to broad platform and that position governs its pricing, its moat, and its path to expand.
+**MS-006** &nbsp; [[MS-006 Wedge-to-Platform Gradient]]<br>Every product sits somewhere on the line from narrow wedge to broad platform and that position governs its pricing, its moat, and its path to expand.
 
 **MS-007** &nbsp; [[MS-007 Maturity Kills Premium]]<br>A category pays its highest margins when it is young; as it matures, rivals converge and the premium bleeds toward cost. Act on the clock.
 
@@ -79,7 +79,7 @@ tags: [book, front-matter, pattern-language]
 
 **MS-024** &nbsp; [[MS-024 Category Entry Point]]<br>Nobody wakes up wanting your category; a situation pushes them into it, so own the situations.
 
-**MS-025** &nbsp; [[MS-025 Competitive Geography]]<br>Your real competition is rarely the vendor you watch; it's the spreadsheet, the in-house build, and the decision to do nothing.
+**MS-025** &nbsp; [[MS-025 Competitive Geography]]<br>Most of the deals you lose go to a spreadsheet, an in-house build, or no purchase at all.
 
 **MS-026** &nbsp; [[MS-026 Fast Follower Arrives]]<br>The moment your category works it becomes legible to everyone, and the education you paid for is sitting in the market for free.
 
@@ -99,7 +99,7 @@ tags: [book, front-matter, pattern-language]
 
 **MS-033** &nbsp; [[MS-033 Spear Fishing]]<br>When fifty accounts decide your year, stop trawling for leads and go spear the fifty by name.
 
-**MS-034** &nbsp; [[MS-034 No Is the Most Profitable Word]]<br>The mismatched deal that pays this quarter costs you the focus that wins the market; the discipline is learning to refuse it.
+**MS-034** &nbsp; [[MS-034 No Is the Most Profitable Word]]<br>The refusals that pay are the ones already decided when the deal walks in.
 
 ### 06 Market and Money
 
@@ -175,7 +175,7 @@ tags: [book, front-matter, pattern-language]
 
 **GTM-026** &nbsp; [[GTM-026 Growth Loop]]<br>A funnel spends a customer once; a loop makes each customer produce the next one, so growth compounds instead of running out the bottom.
 
-**GTM-027** &nbsp; [[GTM-027 Product-Qualified Lead]]<br>A form-fill says someone downloaded a PDF; a product-qualified lead says someone already got value and hit the wall. Chase the second one.
+**GTM-027** &nbsp; [[GTM-027 Product-Qualified Lead]]<br>A lead is a behavior in your product with a number attached; one user clearing the bar earns a conversation, a team clearing it earns an account executive.
 
 **GTM-028** &nbsp; [[GTM-028 Sales-Assisted Conversion]]<br>The sales-assist rep opens with "I see you're setting up SSO, I can help," because the product already told them what the buyer needs.
 
@@ -205,7 +205,7 @@ tags: [book, front-matter, pattern-language]
 
 ### 14 The Engine Room
 
-**OPS-005** &nbsp; [[OPS-005 Funnel Stages, Yours]]<br>A funnel stage is a promise about the buyer's reality; borrow someone else's and you forecast a journey your buyer never takes.
+**OPS-005** &nbsp; [[OPS-005 Funnel Stages, Yours]]<br>Your stages follow the journey your buyer takes, and every boundary has an exit test a stranger can check without asking anyone how the deal feels.
 
 **OPS-006** &nbsp; [[OPS-006 CRM as Shared Memory]]<br>What one person knows about an account leaves with that person; what the system knows survives them.
 

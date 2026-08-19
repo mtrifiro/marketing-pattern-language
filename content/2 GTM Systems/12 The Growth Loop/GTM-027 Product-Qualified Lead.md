@@ -8,11 +8,11 @@ larger: ["[[GTM-026 Growth Loop]]"]
 smaller: ["[[GTM-028 Sales-Assisted Conversion]]", "[[GTM-030 Freemium-to-Enterprise]]"]
 source: "PDF pp. 1–40 raw (PQL/PQA, account on fire, Sales-Assisted triggers); pp. 121–140 (scoring inputs); pp. 241–260 (PQL→PQA, PQA model, zero-party data)"
 created: 2026-08-01
-modified: 2026-08-08
+modified: 2026-08-19
 tags: [pattern]
 ---
 
-> *A form-fill says someone downloaded a PDF; a product-qualified lead says someone already got value and hit the wall. Chase the second one.*
+> *A lead is a behavior in your product with a number attached; one user clearing the bar earns a conversation, a team clearing it earns an account executive.*
 
 > [!tldr] About this pattern
 > Product-qualified leads use observed behavior: one user reaching value fires a signal, several such users inside one company create a stronger commercial event, and account identity and threshold quality become part of qualification. It sits below [[GTM-026 Growth Loop]] and above [[GTM-028 Sales-Assisted Conversion]] and [[GTM-030 Freemium-to-Enterprise]].

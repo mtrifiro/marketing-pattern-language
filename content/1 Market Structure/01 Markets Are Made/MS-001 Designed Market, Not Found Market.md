@@ -23,7 +23,7 @@ smaller:
   - "[[MS-030 Sizing Is Storytelling]]"
   - "[[MS-032 Beachhead Market]]"
   - "[[MS-031 Market Segmentation]]"
-  - "[[MS-006 Niche-to-Platform Gradient]]"
+  - "[[MS-006 Wedge-to-Platform Gradient]]"
   - "[[MS-007 Maturity Kills Premium]]"
   - "[[GTM-001 Single Primary Motion]]"
   - "[[MS-003 Window of Inevitability]]"
@@ -32,7 +32,7 @@ smaller:
   - "[[MS-002 Market Type Sets the Playbook]]"
 source: PDF pp. 321–340 (Book Proposal essay, 'The Indiana Jones Fallacy', Jan 2026)
 created: 2026-08-01
-modified: 2026-08-08
+modified: 2026-08-16
 tags:
   - pattern
 ---
@@ -94,7 +94,7 @@ Understand the cost of this power: a designed market is a falsifiable bet on rea
   - *The claim itself:* [[MS-004 Narrative Precedes Demand]] (the interpretation you author), [[MS-005 Category Before Product]] (the shelf you build), [[MS-022 Positioning as Contrast]] (the contrast you draw). [[MS-023 Category Creation]] sits one level further down, under [[MS-005 Category Before Product]] rather than here.
   - *Who it admits:* [[MS-009 Buyer Archetypes]], [[MS-015 Buyers Come in Clusters]], [[MS-010 ICP Definition]], [[MS-016 Power Law Accounts]], [[MS-017 Adoption Curve Ownership]].
   - *What it costs to enter:* [[MS-018 Price Creates the Buyer]] (the number that selects the buyer), [[MS-035 Go-To-Funding vs. Go-To-Market Balance]], [[MS-036 Unit Economics as Market Truth]].
-  - *What structure it has:* [[MS-006 Niche-to-Platform Gradient]], [[MS-007 Maturity Kills Premium]], [[MS-027 Economic Moat]], [[MS-025 Competitive Geography]].
+  - *What structure it has:* [[MS-006 Wedge-to-Platform Gradient]], [[MS-007 Maturity Kills Premium]], [[MS-027 Economic Moat]], [[MS-025 Competitive Geography]].
   - *When and how far you enter:* [[MS-003 Window of Inevitability]] (the timing that makes a design land), [[MS-030 Sizing Is Storytelling]], [[MS-032 Beachhead Market]], [[MS-031 Market Segmentation]], and [[GTM-001 Single Primary Motion]], the motion the structure permits and the exit from Part I into Part II.
 - **Peers:** *(none; at the root, every neighbour is downstream)*
 

@@ -8,11 +8,11 @@ larger: ["[[GTM-008 Demand Creation vs. Demand Capture]]", "[[GTM-004 Repeatable
 smaller: ["[[OPS-006 CRM as Shared Memory]]", "[[OPS-009 Messaging Cadence]]", "[[OPS-007 Lead Scoring and Routing]]", "[[OPS-008 Nurture Architecture]]"]
 source: "PDF pp. 121–140 (buyer journey / funnel stages); pp. 141–160 (CRM funnel-stage config, MQL/SQL definitions); pp. 161–180 (BANT vs MEDDIC vs SPICED; pipeline management, forecasting, conversion rates)"
 created: 2026-08-01
-modified: 2026-08-08
+modified: 2026-08-19
 tags: [pattern]
 ---
 
-> *A funnel stage is a promise about the buyer's reality; borrow someone else's and you forecast a journey your buyer never takes.*
+> *Your stages follow the journey your buyer takes, and every boundary has an exit test a stranger can check without asking anyone how the deal feels.*
 
 > [!tldr] About this pattern
 > A funnel stage is a promise about the buyer's reality, kept honest by objective exits that sales and marketing share and by records that age with the deal. It sits below [[GTM-008 Demand Creation vs. Demand Capture]] and [[GTM-004 Repeatable Sales Motion]] and above [[OPS-006 CRM as Shared Memory]], [[OPS-009 Messaging Cadence]], [[OPS-007 Lead Scoring and Routing]], and [[OPS-008 Nurture Architecture]].

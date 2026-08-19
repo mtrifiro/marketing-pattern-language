@@ -8,11 +8,11 @@ larger: ["[[MS-011 Negative ICP]]"]
 smaller: []
 source: "PDF pp. 341–354 (Power Law essay: 'NO is the most profitable word')"
 created: 2026-08-01
-modified: 2026-08-08
+modified: 2026-08-19
 tags: [pattern]
 ---
 
-> *The mismatched deal that pays this quarter costs you the focus that wins the market; the discipline is learning to refuse it.*
+> *The refusals that pay are the ones already decided when the deal walks in.*
 
 > [!tldr] About this pattern
 > A mismatched deal pays this quarter by consuming the focus, roadmap, and support capacity reserved for the ideal market. Its hidden cost is the ideal customer the distracted company never wins. It sits below [[MS-011 Negative ICP]].

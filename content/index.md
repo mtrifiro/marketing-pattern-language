@@ -38,7 +38,7 @@ Each pattern is written to be opened cold; five minutes gives you the situation,
 
 ---
 
-> [!warning] Work in progress
-> This language is being actively written. Patterns marked **Draft** are still in revision — their argument may change, and their examples may not yet be complete. Patterns without the marker have been through editorial review.
+> [!note] A living reference
+> All 123 patterns are written and the network is complete. The language keeps changing as new cases arrive: examples get named, arguments get sharpened, and the links between patterns get redrawn. What you read here is where the argument currently stands.
 
 *See your market clearly, then shape it on purpose.*

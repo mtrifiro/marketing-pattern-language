@@ -8,7 +8,6 @@ import ReaderMode from "./ReaderMode"
 import Head from "./Head"
 import PageTitle from "./PageTitle"
 import ContentMeta from "./ContentMeta"
-import DraftBadge from "./DraftBadge"
 import Spacer from "./Spacer"
 import TableOfContents from "./TableOfContents"
 import Explorer from "./Explorer"
@@ -35,7 +34,6 @@ export {
   Head,
   PageTitle,
   ContentMeta,
-  DraftBadge,
   Spacer,
   TableOfContents,
   Explorer,
